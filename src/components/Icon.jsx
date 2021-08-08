@@ -1,1 +1,3 @@
-import svgr from 'vite-plugin-svgr'
+import {ReactComponent as POMODORO } from './images/POMODORO.svg'
+
+export const Icon = {POMODORO}
